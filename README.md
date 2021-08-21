@@ -105,7 +105,7 @@ From the plot, the right section with no black points is the prediction section 
 ![image](https://user-images.githubusercontent.com/38795845/130305173-c7b79314-c161-48d9-bf6f-2208e19e3405.png)Metric result generating
 
 
-   The chosen interval for cross validation is between 2010-03-26 and 2018-08-11. The figure is showing the mean absolute percent error from predictions to actuals by spots. The blue line is the computed regression of these MAPE. From the blue line, the MAPE is around 0.03, the mean absolute difference from y predictions to y actuals equals ~0.02% of y actuals, which is a relatively low error for prediction models. It indicates this time series model fits the data well.
+   The chosen interval for cross validation is between 2010-03-26 and 2018-08-11. The figure is showing the mean absolute percent error from predictions to actuals by spots. The blue line is the computed regression of these MAPE. From the blue line, the MAPE is around 0.03, the mean absolute difference from y predictions to y actuals equals ~0.03% of y actuals, which is a relatively low error for prediction models. It indicates this time series model fits the data well.
 
 ![image](https://user-images.githubusercontent.com/38795845/130305147-a533be0d-a339-4f76-a7b8-237b666c316b.png)
 
