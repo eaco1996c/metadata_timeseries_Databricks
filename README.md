@@ -10,6 +10,14 @@ Following are extra libraries installed to the Cluster:
 
 ![image](https://user-images.githubusercontent.com/38795845/130290711-8b0f634a-3a8e-4114-a5d5-708e0d5279da.png)
 
+
+Many environmental protection data analysis projects have focused on greenhouse gas emissions and the cyclical movement of ocean currents. However, there is another topic to care about, the record and research of ecological species. The data used to record species are generally large-scale data containing essential information. It needs to be processed basically with a scale of millions at one time. Ecological species research pays more attention to overall trends rather than individual details. Therefore, analyzing ecological species change can be an excellent choice to utilize big data.
+
+**Project Framework**
+
+![image](https://user-images.githubusercontent.com/38795845/130500622-82b56d82-cc79-4a65-a62d-e51abf45899f.png)
+
+
 ## Dataset Description
 
 This dataset is captured from [Wikiaves](https://www.wikiaves.com.br/#), a Brazil bird dicovery record website. 
